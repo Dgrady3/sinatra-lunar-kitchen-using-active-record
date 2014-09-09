@@ -1,3 +1,5 @@
+
+require "sinatra/activerecord"
 require 'sinatra'
 require 'sinatra/reloader'
 require 'pg'
